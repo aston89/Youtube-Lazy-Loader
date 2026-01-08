@@ -46,7 +46,7 @@ Because the script operates at a “universal” level, it may **not always work
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or compatible userscript manager in your browser.  
 2. Create a new userscript named `youtube-lazy-loader`.  
-3. Copy and paste the full script content into the Tampermonkey editor.  
+3. Copy and paste the [script content](https://github.com/aston89/Youtube-Lazy-Loader/blob/main/Yuotube-Lazy-Loader.js) into the Tampermonkey editor.  
 4. Save and enable the script.  
 5. Open YouTube; the script should automatically manage lazy loading.
 
